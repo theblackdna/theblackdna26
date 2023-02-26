@@ -1,0 +1,49 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: HTML
+  - item: CSS/Sass
+  - item: Python
+  - item: SQL
+  - item: Java
+  - item: PHP
+  - item: TypeScript
+  - item: R
+  - item: Markdown
+
+frameworks:
+  - item: React
+  - item: Node.js
+  - item: Laravel
+  - item: Bootstrap
+  - item: Wordpress
+  - item: Next.js
+  - item: Tailwind CSS
+  - item: CodeIgniter
+  - item: Hugo
+  - item: Xenforo
+  - item: IPS Community
+  - item: Jekyll
+  - item: Astro
+
+tools:
+  - item: Git & GitHub
+  - item: Visual Studio Code
+  - item: Chrome DevTools
+  - item: npm/yarn/pnpm
+  - item: MySQL
+  - item: Vercel
+  - item: Netlify
+  - item: Amazon Web Services (AWS)
+  - item: Google Cloud Platform (GCP)
+  - item: Microsoft Azure
+  - item: Gulp & Grunt
+  - item: Replit
+  - item: Brackets
+  - item: Bash
+
+design:
+  - item: Figma
+  - item: Sketch
+  - item: Wireframing
+  - item: Prototyping
+  - item: User Testing
