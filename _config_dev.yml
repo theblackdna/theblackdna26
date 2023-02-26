@@ -1,0 +1,45 @@
+# Site settings
+name: Dan Chavez
+title: Dan Chavez | Full Stack Developer
+description: Design-minded full stack developer combining the power of code and design to bring ideas to life.
+url: https://dnachavez.com/
+baseurl: ''
+email: dna.chavez@outlook.com
+cover: https://dnachavez.com/img/og.png
+logo: https://dnachavez.com/img/emojis/technologist.png
+resume: https://dnachavez.com/resume.pdf
+social:
+  - title: email
+    url: mailto:dna.chavez@outlook.com
+  - title: twitter
+    url: https://twitter.com/dnachavez
+  - title: instagram
+    url: https://instagram.com/dnachavez
+  - title: codepen
+    url: http://codepen.io/dnachavez
+  - title: github
+    url: https://github.com/dnachavez
+  - title: linkedin
+    url: https://www.linkedin.com/in/dnachavez
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
